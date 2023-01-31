@@ -1,4 +1,4 @@
-import GlobalStyle from "../src/theme/globalStyle";
+import GlobalStyle from "../src/theme/GlobalStyle";
 import Head from "next/head";
 import 'semantic-ui-css/semantic.min.css';
 import React from 'react'
